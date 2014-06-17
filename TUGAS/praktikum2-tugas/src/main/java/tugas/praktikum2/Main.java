@@ -2,7 +2,6 @@ package tugas.praktikum2;
 
 import java.io.*;
 import java.sql.*;
-import java.sql.SQLIntegrityConstraintViolationException;
 import java.text.*;
 
 public class Main 
